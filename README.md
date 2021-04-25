@@ -1,2 +1,2 @@
-#React test
+React test
 To test react functions
